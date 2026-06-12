@@ -5,11 +5,13 @@ in MistWarp.
 
 ## Keybinds
 
-Shift + I : Open a .wmcbin file.
-Shift + H : Halt the program.
-Shift + Enter : Restart a program.
+Shift + I : Open a .wmcbin file.  
+Shift + H : Halt the program.  
+Shift + Enter : Restart a program.  
 
 ## Info
+
+The WMC will start on a black screen, use one of the keybinds to use it.
 
 You can view the docs in the "docs.md" file.
 
