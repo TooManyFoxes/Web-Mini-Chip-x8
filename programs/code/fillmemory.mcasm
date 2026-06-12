@@ -1,0 +1,10 @@
+// Written by roxy.
+// this simple program absolutely destroys the wmc's memory by recursively
+// filling it with data!
+
+wbr 255 0
+wbr 1 1
+adr 1 2 2
+wrd 0 2
+jmp 6
+hlt

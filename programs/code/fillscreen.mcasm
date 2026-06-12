@@ -1,0 +1,12 @@
+// Written by roxy.
+// this program will fill the screen.
+
+
+wbr 255 0
+wbr 0 1
+wbr 1 2
+
+wvr 0 1
+adr 1 2 1
+jmp 9
+hlt

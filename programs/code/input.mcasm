@@ -1,0 +1,27 @@
+// Written by roxy.
+// this program will wait for the user to press a valid input,
+// if the user presses a valid input it will print it to the screen.
+// otherwise it will clear.
+
+
+wvi b01010100 0
+pui 0
+
+ifr 0 1 26
+ifr 0 2 30
+ifr 0 3 34
+ifr 0 4 38
+ifr 0 5 42
+wvi 0 0
+hlt
+
+wvi 1 0
+hlt
+wvi 2 0
+hlt
+wvi 3 0
+hlt
+wvi 4 0
+hlt
+wvi 5 0
+hlt

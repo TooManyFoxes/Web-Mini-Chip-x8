@@ -1,0 +1,9 @@
+// Written by roxy.
+// this program will generate two random numbers,
+// then add them together and store them in the first memory slot.
+
+ran 0
+ran 1
+adr 0 1 2
+rfr 2 0
+hlt

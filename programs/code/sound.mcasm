@@ -1,0 +1,14 @@
+// Written by roxy.
+// this program will play a repeating sound.
+
+wvi b00111000 41
+wvi b01111011 45
+wvi b01111011 49
+wvi b00111000 53
+wbr 14 0
+src 0
+ppc 0
+cvm
+ppc 0
+jmp 0
+hlt

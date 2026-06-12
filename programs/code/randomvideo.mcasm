@@ -1,0 +1,11 @@
+// Written by roxy.
+// this simple program prints random bytes to
+// the screen.
+
+wbr 0 0
+wbr 1 1
+ran 2
+adr 0 1 0
+wvr 2 0
+jmp 6
+hlt
