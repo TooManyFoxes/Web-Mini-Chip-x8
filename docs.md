@@ -35,6 +35,10 @@ Operations are case-sensitive and must be written in lowercase.
 
 Comments must be started with a "//". There are no multi-line comments.
 
+When writing code, only numbers and binary are used. For example, a binary number written would be
+b10101010, but you could write it as 170. These value formats are the only formats allowed. However, this rule does
+not apply to operations so dont write the actual byte for the operation code!
+
 -----
 
 OF - Set to 1 if the last math operation resulted in an overflow.
