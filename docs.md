@@ -215,7 +215,7 @@ Writes the contents of the register determined by the second byte to the locatio
 
 00001110:
 Add Immediate - ADI
-5 Bytes
+4 Bytes
 
 Adds the second and third byte together, storing the result in the register
 determined by the fourth byte. If the addition resulted in an overflow, the overflow flag will be set to 1.
@@ -283,7 +283,7 @@ Multiplies the contents of the register determined by the second byte and the co
 
 00010101:
 Divide Registers - DVR
-4 Bytes
+5 Bytes
 
 Divides the contents of the register determined by the second byte by the contents of the register determined by the third byte , storing the result in the register determined by the fourth byte. Note that this operation will set the overflow flag to 0 regardless of the result.
 
