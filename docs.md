@@ -33,6 +33,8 @@ d: 00001111
 
 Operations are case-sensitive and must be written in lowercase.
 
+Comments must be started with a "//". There are no multi-line comments.
+
 -----
 
 OF - Set to 1 if the last math operation resulted in an overflow.
