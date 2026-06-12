@@ -1,4 +1,4 @@
-There are 6 Registers, 2 flags, 256 Bytes of ROM and Memory, and 112 bytes of
+There are 6 Registers (0 - 5) , 2 flags, 256 Bytes of ROM and Memory, and 112 bytes of
 video memory.
 
 Each byte is 8 pixels in video memory. The top left of the screen is byte 1, and the
