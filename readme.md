@@ -1,6 +1,6 @@
-## Web Mini Chip Emulator
+## Web Mini Chip Emulator (x8)
 
-This program emulates the capabilities of the WMC, written
+This program emulates the capabilities of the 8-bit version of the WMC, written
 in MistWarp.
 
 ## Keybinds
