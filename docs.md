@@ -215,7 +215,7 @@ Writes the contents of the register determined by the second byte to the locatio
 
 00001110:
 Add Immediate - ADI
-4 Bytes
+5 Bytes
 
 Adds the second and third byte together, storing the result in the register
 determined by the fourth byte. If the addition resulted in an overflow, the overflow flag will be set to 1.
